@@ -1,0 +1,106 @@
+<genres>
+  <name>Mirakurun JP/Japan</name>
+
+  <genre genreId="0x20">ニュース／報道 - 定時・総合</genre>
+  <genre genreId="0x21">ニュース／報道 - 天気</genre>
+  <genre genreId="0x23">ニュース／報道 - 特集・ドキュメント</genre>
+  <genre genreId="0x23">ニュース／報道 - 政治・国会</genre>
+  <genre genreId="0x22">ニュース／報道 - 経済・市況</genre>
+  <genre genreId="0x22">ニュース／報道 - 海外・国際</genre>
+  <genre genreId="0x22">ニュース／報道 - 解説</genre>
+  <genre genreId="0x24">ニュース／報道 - 討論・会談</genre>
+  <genre genreId="0x20">ニュース／報道 - 報道特番</genre>
+  <genre genreId="0x20">ニュース／報道 - ローカル・地域</genre>
+  <genre genreId="0x20">ニュース／報道 - 交通</genre>
+
+  <genre genreId="0x42">スポーツ - スポーツニュース</genre>
+  <genre genreId="0x45">スポーツ - 野球</genre>
+  <genre genreId="0x43">スポーツ - サッカー</genre>
+  <genre genreId="0x40">スポーツ - ゴルフ</genre>
+  <genre genreId="0x40">スポーツ - その他の球技</genre>
+  <genre genreId="0x4b">スポーツ - 相撲・格闘技</genre>
+  <genre genreId="0x41">スポーツ - オリンピック・国際大会</genre>
+  <genre genreId="0x46">スポーツ - マラソン・陸上・水泳</genre>
+  <genre genreId="0x47">スポーツ - モータースポーツ</genre>
+  <genre genreId="0x4a">スポーツ - マリン・ウィンタースポーツ</genre>
+  <genre genreId="0x41">スポーツ - 競馬・公営競技</genre>
+
+  <genre genreId="0x74">情報／ワイドショー - 芸能・ワイドショー</genre>
+  <genre genreId="0x7b">情報／ワイドショー - ファッション</genre>
+  <genre genreId="0x70">情報／ワイドショー - 暮らし・住まい</genre>
+  <genre genreId="0xA4">情報／ワイドショー - 健康・医療</genre>
+  <genre genreId="0xA6">情報／ワイドショー - ショッピング・通販</genre>
+  <genre genreId="0xA5">情報／ワイドショー - グルメ・料理</genre>
+  <genre genreId="0x78">情報／ワイドショー - イベント</genre>
+  <genre genreId="0x78">情報／ワイドショー - 番組紹介・お知らせ</genre>
+
+  <genre genreId="0x10">ドラマ - 国内ドラマ</genre>
+  <genre genreId="0x10">ドラマ - 海外ドラマ</genre>
+  <genre genreId="0x17">ドラマ - 時代劇</genre>
+
+  <genre genreId="0x61">音楽 - 国内ロック・ポップス</genre>
+  <genre genreId="0x61">音楽 - 海外ロック・ポップス</genre>
+  <genre genreId="0x62">音楽 - クラシック・オペラ</genre>
+  <genre genreId="0x64">音楽 - ジャズ・フュージョン</genre>
+  <genre genreId="0x63">音楽 - 歌謡曲・演歌</genre>
+  <genre genreId="0x65">音楽 - ライブ・コンサート</genre>
+  <genre genreId="0x60">音楽 - ランキング・リクエスト</genre>
+  <genre genreId="0x60">音楽 - カラオケ・のど自慢</genre>
+  <genre genreId="0x63">音楽 - 民謡・邦楽</genre>
+  <genre genreId="0x63">音楽 - 童謡・キッズ</genre>
+  <genre genreId="0x63">音楽 - 民族音楽・ワールドミュージック</genre>
+
+  <genre genreId="0x31">バラエティ - クイズ</genre>
+  <genre genreId="0x31">バラエティ - ゲーム</genre>
+  <genre genreId="0x33">バラエティ - トークバラエティ</genre>
+  <genre genreId="0x32">バラエティ - お笑い・コメディ</genre>
+  <genre genreId="0x30">バラエティ - 音楽バラエティ</genre>
+  <genre genreId="0x30">バラエティ - 旅バラエティ</genre>
+  <genre genreId="0x30">バラエティ - 料理バラエティ</genre>
+
+  <genre genreId="0x10">映画 - 洋画</genre>
+  <genre genreId="0x10">映画 - 邦画</genre>
+  <genre genreId="0x10">映画 - アニメ</genre>
+
+  <genre genreId="0x55">アニメ／特撮 - 国内アニメ</genre>
+  <genre genreId="0x55">アニメ／特撮 - 海外アニメ</genre>
+  <genre genreId="0x55">アニメ／特撮 - 特撮</genre>
+
+  <genre genreId="0x95">ドキュメンタリー／教養 - 社会・時事</genre>
+  <genre genreId="0x94">ドキュメンタリー／教養 - 歴史・紀行</genre>
+  <genre genreId="0x91">ドキュメンタリー／教養 - 自然・動物・環境</genre>
+  <genre genreId="0x93">ドキュメンタリー／教養 - 宇宙・科学・医学</genre>
+  <genre genreId="0x90">ドキュメンタリー／教養 - カルチャー・伝統文化</genre>
+  <genre genreId="0x90">ドキュメンタリー／教養 - 文学・文芸</genre>
+  <genre genreId="0x90">ドキュメンタリー／教養 - スポーツ</genre>
+  <genre genreId="0x90">ドキュメンタリー／教養 - ドキュメンタリー全般</genre>
+  <genre genreId="0x90">ドキュメンタリー／教養 - インタビュー・討論</genre>
+
+  <genre genreId="0x63">劇場／公演 - 現代劇・新劇</genre>
+  <genre genreId="0x65">劇場／公演 - ミュージカル</genre>
+  <genre genreId="0x66">劇場／公演 - ダンス・バレエ</genre>
+  <genre genreId="0x63">劇場／公演 - 落語・演芸</genre>
+  <genre genreId="0x63">劇場／公演 - 歌舞伎・古典</genre>
+
+  <genre genreId="0xA1">趣味／教育 - 旅・釣り・アウトドア</genre>
+  <genre genreId="0xA7">趣味／教育 - 園芸・ペット・手芸</genre>
+  <genre genreId="0xA0">趣味／教育 - 音楽・美術・工芸</genre>
+  <genre genreId="0xA0">趣味／教育 - 囲碁・将棋</genre>
+  <genre genreId="0xA0">趣味／教育 - 麻雀・パチンコ</genre>
+  <genre genreId="0xA3">趣味／教育 - 車・オートバイ</genre>
+  <genre genreId="0x92">趣味／教育 - コンピュータ・ＴＶゲーム</genre>
+  <genre genreId="0x97">趣味／教育 - 会話・語学</genre>
+  <genre genreId="0x90">趣味／教育 - 幼児・小学生</genre>
+  <genre genreId="0x90">趣味／教育 - 中学生・高校生</genre>
+  <genre genreId="0x90">趣味／教育 - 大学生・受験</genre>
+  <genre genreId="0x96">趣味／教育 - 生涯教育・資格</genre>
+  <genre genreId="0x90">趣味／教育 - 教育問題</genre>
+
+  <genre genreId="0x90">福祉 - 高齢者</genre>
+  <genre genreId="0x90">福祉 - 障害者</genre>
+  <genre genreId="0x90">福祉 - 社会福祉</genre>
+  <genre genreId="0x90">福祉 - ボランティア</genre>
+  <genre genreId="0x90">福祉 - 手話</genre>
+  <genre genreId="0x90">福祉 - 文字（字幕）</genre>
+  <genre genreId="0x90">福祉 - 音声解説</genre>
+</genres>
